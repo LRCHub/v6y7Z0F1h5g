@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Make Me Wonder",
+  "base_artist": "Official髭男dism",
+  "createdAt": "2025-12-29T14:53:43.277917Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Make Me Wonder If I Ever Said Goodbye",
+      "artist": "Kenny Rogers",
+      "has_synced": false,
+      "path": "select/01_Make_Me_Wonder_If_I_Ever_Said_Goodbye_Kenny_Rogers.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "You (Make Me Wonder Why)",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/02_You_(Make_Me_Wonder_Why)_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Make Me Wonder",
+      "artist": "Kllo",
+      "has_synced": false,
+      "path": "select/03_Make_Me_Wonder_Kllo.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Make Me Wonder",
+      "artist": "Solon Holt",
+      "has_synced": false,
+      "path": "select/04_Make_Me_Wonder_Solon_Holt.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Make Me Wonder",
+      "artist": "Official髭男dism",
+      "has_synced": false,
+      "path": "select/pl_01_Make_Me_Wonder_Official髭男dism.txt"
+    }
+  ]
+}
